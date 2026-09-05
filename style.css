@@ -433,6 +433,13 @@ h1 {
   font-size: 0.98rem;
 }
 
+.contact-card small {
+  display: block;
+  margin-top: 0.35rem;
+  color: var(--muted-2);
+  font-size: 0.82rem;
+}
+
 .contact-card a {
   color: var(--gold);
   text-decoration: none;
